@@ -24,6 +24,9 @@ Fun Facts
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Verilog](https://img.shields.io/badge/Verilog-555555?style=flat-square&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-555555?style=flat-square&logoColor=white)
+![python](https://img.shields.io/badge/python-555555?style=flat-square&logoColor=white)
+![postman](https://img.shields.io/badge/postman-555555?style=flat-square&logoColor=white)
+![node.js](https://img.shields.io/badge/node.js-555555?style=flat-square&logoColor=white)
 
 ### GitHub Stats
 
