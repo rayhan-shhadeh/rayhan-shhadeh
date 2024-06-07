@@ -1,17 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
 
-## I'm a passionate Computer Engineering student with a strong foundation in software and hardware design. Here's a bit about me:
+### I'm a passionate Computer Engineering student with a strong foundation in software and hardware design. Here's a bit about me:
 
  - 🔭 I’m currently working on projects involving C, C++, Verilog, VHDL, Java, and JavaScript.
  - 🌱 I’m constantly learning and expanding my skills in both software development and digital systems design.
  - 👯 I’m looking to collaborate on exciting projects that push the boundaries of technology.
  - 💬 Ask me about my projects, coursework, or anything tech-related!
-________________
+
 ## Get in Touch
-- 📫 How to reach me: Your Email
-- 🌐 Visit my personal website to learn more about my work.
-Fun Facts
+- 📫 How to reach me: [rayhan shhadeh](mailto:rayhanshhadeh@gmail.com)
+- 🌐 Visit my [ portfolio ](https://rayhan-shhadeh.github.io/rayhanshhadeh.github.io/) to learn more about my work.
+
+## Fun Facts
 - 🚀 I love exploring new technologies and applying them to solve real-world problems.
 - 🎮 In my free time, you can find me gaming or working on personal coding projects.
 - 🌎 I enjoy connecting with people from around the world and learning about different cultures and technologies.
@@ -33,7 +34,4 @@ Fun Facts
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhan-shhadeh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-shhadeh&layout=compact&theme=radical)
 
-### Get in Touch
 
-- 📫 How to reach me: [rayhan shhadeh](mailto:rayhanshhadeh@gmail.com)
-- 🌐 Visit my [ portfolio ](https://rayhan-shhadeh.github.io/rayhanshhadeh.github.io/) to learn more about my work.
