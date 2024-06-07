@@ -33,4 +33,4 @@ Fun Facts
 ### Get in Touch
 
 - 📫 How to reach me: [Your Email](mailto:rayhanshhadeh@gmail.com)
-- 🌐 Visit my [personal website]([https://your-website.com](https://rayhan-shhadeh.github.io/rayhanshhadeh.github.io/)) to learn more about my work.
+- 🌐 Visit my[personal website](https://your-website.com](https://rayhan-shhadeh.github.io/rayhanshhadeh.github.io/) to learn more about my work.
