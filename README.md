@@ -7,7 +7,7 @@
  - 🌱 I’m constantly learning and expanding my skills in both software development and digital systems design.
  - 👯 I’m looking to collaborate on exciting projects that push the boundaries of technology.
  - 💬 Ask me about my projects, coursework, or anything tech-related!
--
+________________
 ## Get in Touch
 - 📫 How to reach me: Your Email
 - 🌐 Visit my personal website to learn more about my work.
@@ -35,5 +35,5 @@ Fun Facts
 
 ### Get in Touch
 
-- 📫 How to reach me: [Your Email](mailto:rayhanshhadeh@gmail.com)
-- 🌐 Visit my[personal website](https://your-website.com](https://rayhan-shhadeh.github.io/rayhanshhadeh.github.io/) to learn more about my work.
+- 📫 How to reach me: [rayhan shhadeh](mailto:rayhanshhadeh@gmail.com)
+- 🌐 Visit my [ portfolio ](https://rayhan-shhadeh.github.io/rayhanshhadeh.github.io/) to learn more about my work.
