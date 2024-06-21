@@ -4,7 +4,7 @@
 ### I'm a passionate Computer Engineering student with a strong foundation in software and hardware design. Here's a bit about me:
 
  - 🔭 I’m currently working on projects involving C, C++, Verilog, VHDL, Java, and JavaScript.
- - 🌱 I’m constantly learning and expanding my skills in both software development and digital systems design.
+ - 🌱 I’m constantly learning and expanding my skills in both software development and Hardware.
  - 👯 I’m looking to collaborate on exciting projects that push the boundaries of technology.
  - 💬 Ask me about my projects, coursework, or anything tech-related!
 
