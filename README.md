@@ -26,7 +26,7 @@
 ![Verilog](https://img.shields.io/badge/Verilog-555555?style=flat-square&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/build-passing-darkorange?style=plastic&logo=VHDL&logoColor=FF8C00&label=VHDL&labelColor=white&color=FF8C00)
 ![Static Badge](https://img.shields.io/badge/build-Learning-darkgreen?style=flat-square&logo=Python&logoColor=003366&label=Python&labelColor=white)
-![postman](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square&logo=postman&logoColor=FFA500&label=Postman&labelColor=white)
+![postman](https://img.shields.io/badge/Postman-square&logo=postman&logoColor=FFA500&label=Postman&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/build-Learning-darkgreen?style=flat-square&logo=Node.Js&logoColor=00ff00&label=Node.Js&labelColor=white)
 
 ### GitHub Stats
