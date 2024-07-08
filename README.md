@@ -12,7 +12,7 @@
 - 📫 How to reach me: [rayhan shhadeh](mailto:rayhanshhadeh@gmail.com)
 - 🌐 Visit my [ portfolio ](https://rayhan-shhadeh.github.io/rayhanshhadeh.github.io/) to learn more about my work.
 
-## Fun Facts
+## Fun Facts  
 - 🚀 I love exploring new technologies and applying them to solve real-world problems.
 - 🎮 In my free time, you can find me gaming or working on personal coding projects.
 - 🌎 I enjoy connecting with people from around the world and learning about different cultures and technologies.
