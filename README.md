@@ -1,7 +1,7 @@
 # Hi there 👋
    
 
-### I'm a passionate Computer Engineering student with a strong foundation in software and hardware design. Here's a bit about me:
+### I'm a passionate Computer Engineering with a strong foundation in software and hardware design. Here's a bit about me:
 
  - 🔭 I’m currently working on projects involving C, C++, Verilog, VHDL, Java, and JavaScript.
  - 🌱 I’m constantly learning and expanding my skills in both software development and Hardware.
